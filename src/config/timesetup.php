@@ -1,0 +1,1 @@
+<?php $timelog = 'America/Los_Angeles' ?>

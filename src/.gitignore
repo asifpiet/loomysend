@@ -1,0 +1,12 @@
+/public/hot
+/public/storage
+/src/node_modules
+/src/resources/lang/
+/src/storage
+/src/vendor
+/lang
+/aseets/file
+.env
+/.idea
+/.vscode
+database.sql
